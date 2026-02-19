@@ -28,3 +28,33 @@
 2026-02-15 15:30:41,340 - INFO - Transformed 251 rows for NVDA
 2026-02-15 15:30:41,347 - INFO - Loaded data into data/NVDA_data.csv
 2026-02-15 15:30:41,347 - INFO - Pipeline completed successfully
+2026-02-17 11:40:15,853 - INFO - Pipeline started
+2026-02-17 11:40:15,853 - INFO - Processing FUN
+2026-02-17 11:40:17,077 - INFO - Extracted data for FUN
+2026-02-17 11:40:17,081 - INFO - Transformed 251 rows for FUN
+2026-02-17 11:40:17,083 - INFO - Loaded data into data/FUN_data.csv
+2026-02-17 11:40:17,083 - INFO - Processing AAPL
+2026-02-17 11:40:18,073 - INFO - Extracted data for AAPL
+2026-02-17 11:40:18,075 - INFO - Transformed 251 rows for AAPL
+2026-02-17 11:40:18,076 - INFO - Loaded data into data/AAPL_data.csv
+2026-02-17 11:40:18,076 - INFO - Processing GOOGL
+2026-02-17 11:40:18,892 - INFO - Extracted data for GOOGL
+2026-02-17 11:40:18,896 - INFO - Transformed 251 rows for GOOGL
+2026-02-17 11:40:18,898 - INFO - Loaded data into data/GOOGL_data.csv
+2026-02-17 11:40:18,898 - INFO - Processing AMZN
+2026-02-17 11:40:19,926 - INFO - Extracted data for AMZN
+2026-02-17 11:40:19,930 - INFO - Transformed 251 rows for AMZN
+2026-02-17 11:40:19,932 - INFO - Loaded data into data/AMZN_data.csv
+2026-02-17 11:40:19,932 - INFO - Processing MSFT
+2026-02-17 11:40:21,041 - INFO - Extracted data for MSFT
+2026-02-17 11:40:21,045 - INFO - Transformed 251 rows for MSFT
+2026-02-17 11:40:21,046 - INFO - Loaded data into data/MSFT_data.csv
+2026-02-17 11:40:21,046 - INFO - Processing TSLA
+2026-02-17 11:40:21,966 - INFO - Extracted data for TSLA
+2026-02-17 11:40:21,971 - INFO - Transformed 251 rows for TSLA
+2026-02-17 11:40:21,973 - INFO - Loaded data into data/TSLA_data.csv
+2026-02-17 11:40:21,973 - INFO - Processing NVDA
+2026-02-17 11:40:22,897 - INFO - Extracted data for NVDA
+2026-02-17 11:40:22,902 - INFO - Transformed 251 rows for NVDA
+2026-02-17 11:40:22,904 - INFO - Loaded data into data/NVDA_data.csv
+2026-02-17 11:40:22,904 - INFO - Pipeline completed successfully
